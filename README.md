@@ -25,7 +25,7 @@ The `nado_multitool` is packed with additional features to make your cracking ta
 To get started with `nado_multitool`, follow these simple steps:
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/nado_multitool.git
+git clone https://github.com/verdeckt/nado_multitool.git
 
 2. **Navigate to the project directory:**
 cd nado_multitool
