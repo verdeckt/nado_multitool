@@ -30,5 +30,5 @@ git clone https://github.com/verdeckt/nado_multitool.git
 2. **Navigate to the project directory:**
 cd nado_multitool
 
-3. **Requirements for application:**
-After you download the tool, open the "combo" folder and drag and drop your txt files into the combo folder, then you can start.
+3. **Quick Tip**
+Please Do Not Type "https:// & http://" on URL section just type "example.com"
