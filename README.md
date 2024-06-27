@@ -1,5 +1,9 @@
 # Nado's Multi Tool
 
+# Reminder 
+
+**Warning**: This application is packed with "Enigma Protector," which means it might give false positives on VirusTotal. You are free to check the connections inside the application. It is fully clean and made for the community.
+
 **Multi Tool For Cracker Guys**
 
 **For Educational Purposes Only**
@@ -32,3 +36,4 @@ cd nado_multitool
 
 3. **Quick Tip**
 Please Do Not Type "https:// & http://" on URL section just type "example.com"
+
