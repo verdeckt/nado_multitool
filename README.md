@@ -37,6 +37,9 @@ cd nado_multitool
 Please Do Not Type "https:// & http://" on URL section just type "example.com"
 
 # Images
-![example]([https://github.com/kullanici_adi/repo_adi/raw/main/resim_adi.png](https://media.discordapp.net/attachments/1229141749549629522/1256204437001732108/image.png?ex=667feb0c&is=667e998c&hm=325cf85f9b388ff7491bf4b9041818c4d90e8461cc3455bc76def3541d5db36a&=&format=webp&quality=lossless))
+![Main Tab]([https://raw.githubusercontent.com/verdeckt/nado_multitool/main/main.png]))
+
+![Setup Tab]([https://raw.githubusercontent.com/verdeckt/nado_multitool/main/setup.png]))
+
 
 
