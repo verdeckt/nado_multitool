@@ -37,9 +37,9 @@ cd nado_multitool
 Please Do Not Type "https:// & http://" on URL section just type "example.com"
 
 # Images
-![Main Tab]([https://github.com/verdeckt/nado_multitool/raw/main/main.png]))
+![Setup Screen](https://github.com/verdeckt/nado_multitool/raw/main/setup.png)
 
-![Setup Tab]([https://github.com/verdeckt/nado_multitool/raw/main/setup.png]))
+![Main Screen](https://github.com/verdeckt/nado_multitool/raw/main/main.png)
 
 
 
