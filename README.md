@@ -1,7 +1,6 @@
 # Nado's Multi Tool
 
-# Reminder 
-
+## Reminder 
 **Warning**: This application is packed with "Enigma Protector," which means it might give false positives on VirusTotal. You are free to check the connections inside the application. It is fully clean and made for the community.
 
 **Multi Tool For Cracker Guys**
@@ -36,4 +35,8 @@ cd nado_multitool
 
 3. **Quick Tip**
 Please Do Not Type "https:// & http://" on URL section just type "example.com"
+
+# Images
+![example]([https://github.com/kullanici_adi/repo_adi/raw/main/resim_adi.png](https://media.discordapp.net/attachments/1229141749549629522/1256204437001732108/image.png?ex=667feb0c&is=667e998c&hm=325cf85f9b388ff7491bf4b9041818c4d90e8461cc3455bc76def3541d5db36a&=&format=webp&quality=lossless))
+
 
